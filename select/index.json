@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "I've Been In Love (feat. Channel Tres)",
+  "base_artist": "Jungle",
+  "createdAt": "2026-04-02T09:08:26.169904Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I've Been In Love (feat. Channel Tres)",
+      "artist": "Jungle",
+      "has_synced": true,
+      "path": "select/01_I've_Been_In_Love_(feat._Channel_Tres)_Jungle.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I've Been In Love (feat. Channel Tres)",
+      "artist": "Jungle",
+      "has_synced": true,
+      "path": "select/02_I've_Been_In_Love_(feat._Channel_Tres)_Jungle.lrc"
+    }
+  ]
+}
